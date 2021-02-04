@@ -61,33 +61,33 @@ function start1(){
 
 	setTimeout(function(){
 		document.getElementsByClassName("card2")[0].style.display = 'block';
-	}, 6000);
+	}, 8000);
 
 	setTimeout(function(){
 		document.getElementsByClassName("card3")[0].style.display = 'block';
-	}, 12000);
+	}, 16000);
 
 	setTimeout(function(){
 		document.getElementsByClassName("card4")[0].style.display = 'block';
-	}, 18000);
+	}, 20000);
 
 	setTimeout(function(){
 		document.getElementsByClassName("card5")[0].style.display = 'block';
-	}, 24000);
+	}, 28000);
 
 	setTimeout(function(){
 		document.getElementsByClassName("card6")[0].style.display = 'block';
-	}, 30000);
+	}, 36000);
 
 	setTimeout(function(){
 		document.getElementsByClassName("card7")[0].style.display = 'block';
-	}, 36000);
+	}, 44000);
 
 
 	setTimeout(function(){
 		document.getElementsByClassName("certi")[0].style.display = 'block';
 		document.getElementsByClassName("pyro")[0].style.display = 'block';
-	}, 40000);
+	}, 46000);
 }
 
 
